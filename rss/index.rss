@@ -1,0 +1,25 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Zach</title><description>Thoughts, ideas and adventures.</description><link>http://localhost:2368/</link><generator>Ghost 0.5</generator><lastBuildDate>Sun, 05 Apr 2015 04:11:56 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Hello World!</title><description>&lt;img src="http://localhost:2368/content/images/2015/04/coffee-iphone-macbook-air-174.jpg" alt="Hello World!"&gt;&lt;p&gt;I got the idea to start a blog on New Year's Day. Well, it took me four months to get around to it, but here we go...&lt;/p&gt;
+
+&lt;p&gt;I plan on using this blog to serve as a journal and a device to keep myself motivated. My major goal for 2015 is to learn. I often found myself wishing I knew more about something over the past year. Whether that thing was iOS Development, music, art, or something else entirely, it always came down to me "not having the time to learn it".&lt;/p&gt;
+
+&lt;h3 id="thegameplan"&gt;The Game Plan&lt;/h3&gt;
+
+&lt;p&gt;Each month, I'm going to pick a topic, and spend an hour each day learning/improving on it. This month, I'm going to learn how to use &lt;a href="http://bohemiancoding.com/sketch/"&gt;Sketch&lt;/a&gt;, so I can become a better UX designer. I've wanted to try my hand in design for a while now, and I'm stoked to get started.&lt;/p&gt;
+
+&lt;p&gt;For the coming months, I came up with a list of things I'd like to learn or improve on&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Music Theory&lt;/li&gt;
+&lt;li&gt;Arabic&lt;/li&gt;
+&lt;li&gt;Web Development&lt;/li&gt;
+&lt;li&gt;Cooking&lt;/li&gt;
+&lt;li&gt;Ukulele&lt;/li&gt;
+&lt;li&gt;Piano&lt;/li&gt;
+&lt;li&gt;Functional Programming&lt;/li&gt;
+&lt;li&gt;Make an iPhone game&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I anticipate the hardest part of this plan will be making the time to do these things. It's super easy to procrastinate and tell yourself you're too tired to learn, but that doesn't get you anywhere. To start, I'm going to start waking up an hour earlier and encorporating learning sessions into my morning routine. Discipline is going to be key here!&lt;/p&gt;
+
+&lt;p&gt;See you on the other side, &lt;br&gt;
+-Zach&lt;/p&gt;</description><link>http://localhost:2368/helloworld/</link><guid isPermaLink="false">acef7878-dd3f-420e-9808-89609f44de96</guid><dc:creator>Zach Jiroun</dc:creator><pubDate>Sun, 05 Apr 2015 03:53:21 GMT</pubDate></item></channel></rss>
